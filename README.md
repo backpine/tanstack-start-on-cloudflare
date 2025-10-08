@@ -2,6 +2,8 @@
 
 A modern, full-stack React application built with TanStack Start and deployed on Cloudflare Workers. This template showcases server functions, middleware, type-safe data fetching, and seamless integration with Cloudflare's edge computing platform.
 
+[![TanStack Start on Cloudflare](https://img.youtube.com/vi/TWWS_lo4kOA/0.jpg)](https://www.youtube.com/watch?v=TWWS_lo4kOA)
+
 ## 🚀 Quick Start
 
 ```bash
