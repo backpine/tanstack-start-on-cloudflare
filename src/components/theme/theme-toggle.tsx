@@ -1,4 +1,3 @@
-import * as React from "react";
 import { Monitor, Moon, Sun, Check } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
