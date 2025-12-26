@@ -7,5 +7,13 @@
   "vars": {
     "MY_VAR": "Hello from Cloudflare",
     "VITE_BASE_URL": "https://tanstack-start-app.dialisis-admin.workers.dev"
+  },
+  "env": {
+    "preview": {
+      "name": "tanstack-start-app-preview",
+      "vars": {
+        "VITE_BASE_URL": "https://tanstack-start-app-preview.dialisis-admin.workers.dev"
+      }
+    }
   }
 }
