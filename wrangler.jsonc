@@ -6,9 +6,6 @@
   "main": "./src/server.ts",
   "vars": {
     "MY_VAR": "Hello from Cloudflare",
-    "VITE_BASE_URL": "http://localhost:3000",
-    "TURSO_DATABASE_URL": "",
-    "TURSO_AUTH_TOKEN": "",
-    "BETTER_AUTH_SECRET": ""
-  },
+    "VITE_BASE_URL": "https://tanstack-start-app.dialisis-admin.workers.dev"
+  }
 }
